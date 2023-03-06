@@ -1,2 +1,3 @@
-# Horspool
-Possivel implementação para resolução do desafio do URI 2153 usando o algorimo de busca em string Horspool.
+# Horspool 
+# Quick Sear
+Neste repositório estão os códigos Quick Search e Horspool, além dos códigos de possíveis soluçõe para os problemas 2153 e 2049 do URI.
